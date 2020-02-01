@@ -1,0 +1,6 @@
+Credentials cache: API:A131AFAB-D8EA-4EED-AA18-7F082FE6F891
+        Principal: yocho@42SEOUL.KR
+
+  Issued                Expires               Principal
+Jan 21 18:57:57 2020  Jan 22 04:57:57 2020  krbtgt/42SEOUL.KR@42SEOUL.KR
+Jan 21 18:57:59 2020  Jan 22 04:57:57 2020  HTTP/student-storage.42seoul.kr@42SEOUL.KR
